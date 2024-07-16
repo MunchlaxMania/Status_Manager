@@ -1,0 +1,158 @@
+{
+	"Sheet1":[
+	{
+	"id": 1,
+	"name": "Reon・Flores",
+	"HO": "愚者",
+	"maxHP": 15,
+	"maxMP": 20
+	},
+	{
+	"id": 2,
+	"name": "Schwarzschild",
+	"HO": "魔術師",
+	"maxHP": 15,
+	"maxMP": 11
+	},
+	{
+	"id": 3,
+	"name": "Patricia Simm",
+	"HO": "女教皇",
+	"maxHP": 13,
+	"maxMP": 16
+	},
+	{
+	"id": 4,
+	"name": "Charline･de･la･Aubrey",
+	"HO": "女帝",
+	"maxHP": 19,
+	"maxMP": 16
+	},
+	{
+	"id": 5,
+	"name": "リチャード",
+	"HO": "皇帝",
+	"maxHP": 15,
+	"maxMP": 12
+	},
+	{
+	"id": 6,
+	"name": "Pietro・Contini",
+	"HO": "教皇",
+	"maxHP": 11,
+	"maxMP": 15
+	},
+	{
+	"id": 7,
+	"name": "Adèle Michelle",
+	"HO": "恋人",
+	"maxHP": 15,
+	"maxMP": 17
+	},
+	{
+	"id": 8,
+	"name": "Pedrail Centurion",
+	"HO": "戦車",
+	"maxHP": 13,
+	"maxMP": 16
+	},
+	{
+	"id": 9,
+	"name": "David Watson",
+	"HO": "正義",
+	"maxHP": 15,
+	"maxMP": 19
+	},
+	{
+	"id": 10,
+	"name": "Liril・Owen",
+	"HO": "隠者",
+	"maxHP": 15,
+	"maxMP": 17
+	},
+	{
+	"id": 11,
+	"name": "Zin・A・Ehēcatl",
+	"HO": "運命の輪",
+	"maxHP": 15,
+	"maxMP": 16
+	},
+	{
+	"id": 12,
+	"name": "lightning",
+	"HO": "力",
+	"maxHP": 15,
+	"maxMP": 16
+	},
+	{
+	"id": 13,
+	"name": "Dan＝Haig",
+	"HO": "吊るされた男",
+	"maxHP": 14,
+	"maxMP": 15
+	},
+	{
+	"id": 14,
+	"name": "Grim(ぐりむ)",
+	"HO": "死神",
+	"maxHP": 15,
+	"maxMP": 20
+	},
+	{
+	"id": 15,
+	"name": "Ripple・Fineline",
+	"HO": "節制",
+	"maxHP": 14,
+	"maxMP": 19
+	},
+	{
+	"id": 16,
+	"name": "Lalo･D･Fizy",
+	"HO": "悪魔",
+	"maxHP": 15,
+	"maxMP": 16
+	},
+	{
+	"id": 17,
+	"name": "Balal",
+	"HO": "塔",
+	"maxHP": 15,
+	"maxMP": 17
+	},
+	{
+	"id": 18,
+	"name": "hardy evansiana",
+	"HO": "星",
+	"maxHP": 16,
+	"maxMP": 19
+	},
+	{
+	"id": 19,
+	"name": "Amari Luna",
+	"HO": "月",
+	"maxHP": 13,
+	"maxMP": 11
+	},
+	{
+	"id": 20,
+	"name": "アキレア",
+	"HO": "太陽",
+	"maxHP": 11,
+	"maxMP": 17
+	},
+	{
+	"id": 21,
+	"name": "Sunny Foster",
+	"HO": "審判",
+	"maxHP": 12,
+	"maxMP": 14
+	},
+	{
+	"id": 22,
+	"name": "Toru Hatsumi",
+	"HO": "世界",
+	"maxHP": 14,
+	"maxMP": 14
+	}
+]
+}
